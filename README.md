@@ -1,9 +1,7 @@
-Developed a Python-based password manager for secure account creation and login 
+Developed a Python script to generate strong, random passwords 
 
-Used SHA-256 hashing to securely store passwords 
+Combined letters, digits, and punctuation for high security 
 
-Implemented “getpass” to hide password input 
+Included customizable password length 
 
-Provided functions for account creation and login with input validation 
-
-Ensured secure password storage by avoiding plain text 
+Utilized Python, string manipulation, and randomization skills 
